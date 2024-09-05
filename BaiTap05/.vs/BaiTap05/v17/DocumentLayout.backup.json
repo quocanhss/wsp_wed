@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luong\\source\\repos\\BaiTap05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BC4195-599C-4087-B3AF-9E70F6F54C78}|BaiTap05\\BaiTap05.csproj|c:\\users\\luong\\source\\repos\\baitap05\\baitap05\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9BC4195-599C-4087-B3AF-9E70F6F54C78}|BaiTap05\\BaiTap05.csproj|solutionrelative:baitap05\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\luong\\source\\repos\\BaiTap05\\BaiTap05\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTap05\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\luong\\source\\repos\\BaiTap05\\BaiTap05\\Pages\\Index.cshtml",
+              "RelativeToolTip": "BaiTap05\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T07:51:07.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
