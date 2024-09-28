@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Create";
+}
+@model TheLoaiModel
+<div class="container">
+    <form method="post">
+        <h3>Thêm thể loại</h3>
+        <label asp-for="Name">Tên thể loại</label>
+        <input asp-for="Name" type="text" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+
+        <label asp-for="DateCreated">Ngày tạo</label>
+        <input asp-for="DateCreated" type="date" class="form-control" />
+        <span asp-validation-for="DateCreated"></span>
+
+
+
+        <form asp-action="Create" enctype="multipart/form-data">
+            <!-- Các trường khác -->
+
+            <div class="form-group">
+                <input type="submit" value="Thêm" class="btn btn-primary" />
+            </div>
+        </form>
+
+
+    </form>
+</div>

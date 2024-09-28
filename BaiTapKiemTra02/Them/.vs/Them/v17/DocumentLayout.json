@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luong\\OneDrive\\Desktop\\CaoQuocKhanh\\Them\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D9DD2F-A917-4E7D-9EB5-16C82814279A}|Them\\Them.csproj|c:\\users\\luong\\onedrive\\desktop\\caoquockhanh\\them\\them\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6D9DD2F-A917-4E7D-9EB5-16C82814279A}|Them\\Them.csproj|solutionrelative:them\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D9DD2F-A917-4E7D-9EB5-16C82814279A}|Them\\Them.csproj|c:\\users\\luong\\onedrive\\desktop\\caoquockhanh\\them\\them\\data\\migrations\\20240926004520_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D9DD2F-A917-4E7D-9EB5-16C82814279A}|Them\\Them.csproj|solutionrelative:them\\data\\migrations\\20240926004520_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D9DD2F-A917-4E7D-9EB5-16C82814279A}|Them\\Them.csproj|c:\\users\\luong\\onedrive\\desktop\\caoquockhanh\\them\\them\\models\\theloaimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D9DD2F-A917-4E7D-9EB5-16C82814279A}|Them\\Them.csproj|solutionrelative:them\\models\\theloaimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D9DD2F-A917-4E7D-9EB5-16C82814279A}|Them\\Them.csproj|c:\\users\\luong\\onedrive\\desktop\\caoquockhanh\\them\\them\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D9DD2F-A917-4E7D-9EB5-16C82814279A}|Them\\Them.csproj|solutionrelative:them\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D9DD2F-A917-4E7D-9EB5-16C82814279A}|Them\\Them.csproj|c:\\users\\luong\\onedrive\\desktop\\caoquockhanh\\them\\them\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6D9DD2F-A917-4E7D-9EB5-16C82814279A}|Them\\Them.csproj|solutionrelative:them\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 150,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\luong\\OneDrive\\Desktop\\CaoQuocKhanh\\Them\\Them\\Views\\TheLoai\\Create.cshtml",
+              "RelativeDocumentMoniker": "Them\\Views\\TheLoai\\Create.cshtml",
+              "ToolTip": "C:\\Users\\luong\\OneDrive\\Desktop\\CaoQuocKhanh\\Them\\Them\\Views\\TheLoai\\Create.cshtml",
+              "RelativeToolTip": "Them\\Views\\TheLoai\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T01:06:06.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240926004520_init.cs",
+              "DocumentMoniker": "C:\\Users\\luong\\OneDrive\\Desktop\\CaoQuocKhanh\\Them\\Them\\Data\\Migrations\\20240926004520_init.cs",
+              "RelativeDocumentMoniker": "Them\\Data\\Migrations\\20240926004520_init.cs",
+              "ToolTip": "C:\\Users\\luong\\OneDrive\\Desktop\\CaoQuocKhanh\\Them\\Them\\Data\\Migrations\\20240926004520_init.cs",
+              "RelativeToolTip": "Them\\Data\\Migrations\\20240926004520_init.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:00:53.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\luong\\OneDrive\\Desktop\\CaoQuocKhanh\\Them\\Them\\Views\\TheLoai\\Index.cshtml",
+              "RelativeDocumentMoniker": "Them\\Views\\TheLoai\\Index.cshtml",
+              "ToolTip": "C:\\Users\\luong\\OneDrive\\Desktop\\CaoQuocKhanh\\Them\\Them\\Views\\TheLoai\\Index.cshtml",
+              "RelativeToolTip": "Them\\Views\\TheLoai\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T00:52:24.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "C:\\Users\\luong\\OneDrive\\Desktop\\CaoQuocKhanh\\Them\\Them\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "Them\\Controllers\\TheLoaiController.cs",
+              "ToolTip": "C:\\Users\\luong\\OneDrive\\Desktop\\CaoQuocKhanh\\Them\\Them\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "Them\\Controllers\\TheLoaiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:49:31.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TheLoaiModel.cs",
+              "DocumentMoniker": "C:\\Users\\luong\\OneDrive\\Desktop\\CaoQuocKhanh\\Them\\Them\\Models\\TheLoaiModel.cs",
+              "RelativeDocumentMoniker": "Them\\Models\\TheLoaiModel.cs",
+              "ToolTip": "C:\\Users\\luong\\OneDrive\\Desktop\\CaoQuocKhanh\\Them\\Them\\Models\\TheLoaiModel.cs",
+              "RelativeToolTip": "Them\\Models\\TheLoaiModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:48:51.379Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
