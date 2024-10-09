@@ -1,0 +1,35 @@
+﻿@model IEnumerable<BaiKiemTra03_03.Models.Contract>
+
+<div class="container mt-5">
+    <h2>Danh sách hợp đồng</h2>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Mã hợp đồng</th>
+                <th>Tên hợp đồng</th>
+                <th>Ngày ký kết</th>
+                <th>Khách hàng</th>
+                <th>Giá trị hợp đồng</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.contract_id</td>
+                    <td>@item.contract_name</td>
+                    <td>@item.signing_date.ToShortDateString()</td>
+                    <td>@item.customer</td>
+                    <td>@item.contract_value</td>
+                    <td>
+                        <a class="btn btn-info btn-sm" href="@Url.Action("Edit", new { id = item.contract_id })">Sửa</a>
+                        <a class="btn btn-danger btn-sm" href="@Url.Action("Delete", new { id = item.contract_id })">Xóa</a>
+                        <a class="btn btn-secondary btn-sm" href="@Url.Action("Details", new { id = item.contract_id })">Xem</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a class="btn btn-primary" href="@Url.Action("Create")">Thêm mới hợp đồng</a>
+</div>
